@@ -1,1 +1,2 @@
 hello javasxript
+add fucntion
